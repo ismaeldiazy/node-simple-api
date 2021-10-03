@@ -1,0 +1,14 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "just a simple REST API using Node & Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "r4bb4n",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

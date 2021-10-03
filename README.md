@@ -1,0 +1,1 @@
+Just a simple REST API to test the potential of Node + Express
